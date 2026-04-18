@@ -30,8 +30,8 @@
 * [cite_start]**Retention Trends:** Line charts showing how loyalty fluctuates over time[cite: 81, 229].
 * [cite_start]**Heatmap Table:** A matrix showing specific customer cohorts and their repeat purchase behavior[cite: 82, 231].
 
-[cite_start]*(Insert your screenshots here: `<img width="1920" height="1080" alt="Screenshot 2026-04-18 133658" src="https://github.com/user-attachments/assets/f857065e-af4f-460a-bc70-f5574289f43d" />
-`) [cite: 115]*
+##  screenshots : 
+<img width="1920" height="1080" alt="Screenshot 2026-04-18 133658" src="https://github.com/user-attachments/assets/8bcaa4b2-2c55-418c-b7ae-32c9af5ba28b" />
 
 ---
 
